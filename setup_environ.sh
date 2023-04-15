@@ -1,6 +1,6 @@
 # TODO: Set up paths here
-export DATA_DIR=/mnt/research/datasets
-export OUTPUT_DIR=/mnt/research/results
+export DATA_DIR=/mnt/e/datasets
+export OUTPUT_DIR=/mnt/c/Users/pablo/OneDrive/Documentos/OUPN/results
 
 # ------  OTHER CONSTANTS -------
 export NAME=oc-fewshot-public
